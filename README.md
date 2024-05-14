@@ -1,0 +1,1 @@
+This simple user guide both shows how I approached training my models as well as hopefully offering some solutions to some basic problems a newcomer might face when trying to use ADS for themselves. I hope this is useful. Also, further information on my project (described in my thesis), as well as the R code used to do all calculations is also available on my github.
